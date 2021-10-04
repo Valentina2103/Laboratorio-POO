@@ -6,11 +6,14 @@ namespace POO
     {
         static void Main(string[] args)
         {
+
+            Card card = new Card();
             Console.WriteLine("Hello World!");
+
+
         }
     }
 }
-
 
 
 
