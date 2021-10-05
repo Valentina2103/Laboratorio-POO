@@ -8,13 +8,15 @@ namespace POO
 {
     class Card
     {
-        public string suit;
-        public string symbol;
-        public int score;
-        public string color;
+        public Int16 score;
+        public String symbol;
+        public String color;
+        public String maso;
 
+        public Card(String maso, String symbol)
+        {
 
-        public Card();
+        }
 
     }
 }
