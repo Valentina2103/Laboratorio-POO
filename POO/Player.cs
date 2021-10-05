@@ -6,18 +6,19 @@ using System.Threading.Tasks;
 
 namespace POO
 {
-    class Dealer
+    class Player
     {
-        List<Card> deck;
+
+        public String hand;
 
 
-        public Generate()
+        public AddCard()
         {
-            
-           
+
         }
 
-        public Randomize()
+
+        public Init()
         {
 
         }
